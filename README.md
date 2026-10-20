@@ -16,4 +16,21 @@
   - `LocationX.java`
   - `PieceName.java`
   - `PieceColor.java`
+ 
+### Base class (Figure) attributes & methods
+- `protected PieceName name;`
+- `protected PieceColor color;`
+- `protected LocationX X;`
+- `protected int Y;`
+- `public Figure()`
+- `public Figure(PieceName name,PieceColor color,LocationX X,int Y)`
+- `public PieceName getName()`
+- `public PieceColor getColor()`
+- `public LocationX getX()`
+- `public int getY()`
+- `public void setX(LocationX X)`
+- `public void setRow(int Y)`
+- `public abstract boolean moveTo(LocationX X,int Y)`
+
 ### Package
+Files related to chess figures should begin with `package src.lab4.chess` (not main file which should instead import it)
