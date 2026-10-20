@@ -1,4 +1,4 @@
-package lab4.chess;
+package src.lab4.chess;
 //knight class inherits from Figure
 public class Knight extends Figure {
     //default constructor

@@ -1,4 +1,4 @@
-package lab4.chess;
+package src.lab4.chess;
 //abstract class, implements intfigure
 public abstract class Figure implements IntFigure {
     private PieceName name;
