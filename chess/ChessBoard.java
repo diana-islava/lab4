@@ -1,4 +1,4 @@
-//TODO: package-insert name-
+package lab4.chess;
 //ChesBoard class implements the IntChessBoard interface
 public class ChessBoard implements IntChessBoard {
     public static final int MAX_ROW=8;

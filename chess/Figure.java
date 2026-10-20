@@ -1,4 +1,4 @@
-//TODO: package -insert name-
+package lab4.chess;
 //abstract class, implements intfigure
 public abstract class Figure implements IntFigure {
     private PieceName name;

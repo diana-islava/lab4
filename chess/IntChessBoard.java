@@ -1,4 +1,4 @@
-//TODO:package -insert name-
+package lab4.chess;
 //interface for ChessBoard class
 public interface IntChessBoard {
     boolean verifyCoordinate(LocationX X,int Y);

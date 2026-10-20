@@ -1,4 +1,4 @@
-//TODO: package -insert name-
+package lab4.chess;
 //knight class inherits from Figure
 public class Knight extends Figure {
     //default constructor

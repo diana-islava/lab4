@@ -1,4 +1,4 @@
-//TODO: package -insert name-
+package lab4.chess;
 //rook class inherits from Figure
 public class Rook extends Figure{
     //default constructor
